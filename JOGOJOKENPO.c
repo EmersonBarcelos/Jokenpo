@@ -40,7 +40,7 @@
         if((computador==1 && jogador==2) || (computador==2 && jogador==3) || (computador==3 && jogador==1)){
             printf("O computador venceu essa rodada\n");
             placar_comp++;
-           }
+        }
     }
 
    system("cls");
